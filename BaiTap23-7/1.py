@@ -1,11 +1,10 @@
-import math
 n = int(input())
 m = abs(n)
 if m == 0:
     print(1)
-    return 0
-d = 0
-while m>0:
-    d += 1
-    m = m // 10
-print(d)
+else :
+    d = 0
+    while m>0:
+        d += 1
+        m = m // 10
+    print(d)
