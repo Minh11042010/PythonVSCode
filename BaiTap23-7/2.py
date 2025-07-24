@@ -1,4 +1,5 @@
 import math
+
 n = int(input())
 t = 0
 while n > 0:

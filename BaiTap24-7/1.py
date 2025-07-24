@@ -1,2 +1,2 @@
 s = input()
-print("Xin chao", s);
+print("Xin chao", s)
