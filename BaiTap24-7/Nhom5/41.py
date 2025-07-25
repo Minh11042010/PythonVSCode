@@ -9,5 +9,3 @@ elif diem >= 5.0:
     print("Trung binh")
 else:
     print("Yeu")
-
-print(1)
