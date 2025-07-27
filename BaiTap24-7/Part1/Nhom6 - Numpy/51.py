@@ -1,5 +1,3 @@
-import numpy as np
-
 a, b, c = map(float, input().split())
 
 if a == 0:
